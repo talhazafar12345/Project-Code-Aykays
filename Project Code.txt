@@ -288,6 +288,14 @@ Index.html
 
 Style.CSS
 
+
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    min-height: 100vh;
+}
+
 header{
     background-color: red;
         border: 5px solid blue;
@@ -667,18 +675,34 @@ button{
 
 
 
-.final{
+footer {
     display: flex;
-    justify-content: space-around;
-    background-color: red;
-    margin-top: 40px;
-    height: 137px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    background-color: red; 
     color: white;
+    overflow: visible; 
+    margin-top: 60px;
 }
 
-.fimg{
-    margin-top: 35px;
+
+.final {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
 }
+
+.final .fimg img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
 
 Media Queries
 
