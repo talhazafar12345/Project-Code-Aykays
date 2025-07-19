@@ -1,7 +1,7 @@
 Index.html
 
 <header>
-        <div class="first">
+        <div class="qqq">
 
                  <div class="bindimg">
                 <img src="./bindle design-Photoroom.png" alt="">
@@ -298,12 +298,11 @@ header{
 
 }
 
-.first{
+.qqq{
     display: flex;
     justify-content: center;
     color: white;
     margin-top: 20px;
-    gap :20px
     
 }
 
