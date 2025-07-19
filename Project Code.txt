@@ -1,4 +1,4 @@
-Index.htm.
+Index.html
 
 <header>
         <div class="first">
