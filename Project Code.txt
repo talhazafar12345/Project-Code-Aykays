@@ -1,0 +1,1407 @@
+Index.htm.
+
+<header>
+        <div class="first">
+
+                 <div class="bindimg">
+                <img src="./bindle design-Photoroom.png" alt="">
+            </div>
+            <div class="bindle">
+                <h1>Mybindle</h1>
+            </div>
+
+            
+        </div>
+
+        <div class="third">
+
+            <div class="second">
+                <h1>Stay Connected</h1>
+                <h1>Stay Social</h1>
+                <h1>Stay You</h1>
+
+                <div>
+                    <p>A place where friendship grow, communities thrive, and momments turn into unforgettabble
+                        experiences. Whether you are looking to reconnect with old frieds build new relationships, or share what matters most to you - MyBindle is your home on the internet
+                    </p>
+                        
+                        
+                </div>
+
+
+                <div>
+                    <button>Get Started</button>
+                </div>
+
+            </div>
+
+            <div class="fourth">
+                <img src="./Projet logo2.png" alt="">
+            </div>
+
+        </div>
+    </header>
+
+    <section>
+
+    <div class="five">
+        <h1>Features that Keep you Hooked</h1>
+        <p>Meet,chat,share-Anytime-AnyWhere</p>
+    </div>
+
+
+    <div class="nine">
+        <div class="sixth">
+            <h1><img src="./Fire-Photoroom.png" alt="Logo" class="inline-img">Seamless Connection</h1>
+            <p>stay in touch with friends, family and like minded people with just a taP</p>
+        </div>
+
+
+        <div class="seven">
+            <h1><img src="./share story-Photoroom.png" alt="" class="inline-img1">Share Your story</h1>
+            <p>Upload photos,videos, and updates to let the world knows what happening in your life</p>
+        </div>
+
+
+
+        <div class="eight">
+            <h1><img src="./Realtime-Photoroom.png" alt="" class="inline-img">Real time Chat</h1>
+            <p>Whether its a DM or a group conversation,connect instantly with smooth lightinging and fast messages</p>
+        </div>
+
+
+    </div>
+
+    <div class="thirteen">
+
+        <div class="ten">
+            <h1> <img src="./LOCK-Photoroom.png" alt="" class="inline-img1">Privacy First</h1>
+            <p>Your data, your control, we prioritize your privacy with world class security</p>
+        </div>
+
+
+
+        <div class="eleven">
+            <h1><img src="./world-Photoroom.png" alt="" class="inline-img">Discover and Explore</h1>
+            <p>Find trending content, join communities, and follow pages that match your interest</p>
+        </div>
+
+
+
+        <div class="twelve">
+            <h1 class="chota"><img src="./Business-Photoroom.png" alt="" class="inline-img1">Grow Your Business</h1>
+            <p>Use our platform to market your brand, connect with customers, and build meaningful relationships </p>
+        </div>
+
+    </div>
+
+
+    <div class="twenty">
+        <div>
+            <img src="./dosra mobile-Photoroom.png" alt="">
+        </div>
+
+        <div class="twentyone">
+            <div>
+                <h1>Where every click sparks a connection</h1>
+                <p>A small act of kindness today can create a lifetime of impact for someone in need. Give from the
+                    heart and change a life.</p>
+            </div>
+
+            <br>
+            <div class="fourteen">
+                <h1><img src="./shorts-Photoroom.png" alt="" class="inline-img1">Short videos and reels</h1>
+                <p>Share engaging, bite-sized-content that keeps every one entertained</p>
+            </div>
+
+            <br>
+
+            <div class="fifteen">
+                <h1><img src="./notifications-Photoroom.png" alt="" class="inline-img1">Smart notifications</h1>
+                <p>Stay updated on what matters without the noise</p>
+            </div>
+
+
+            <br>
+            <div class="sixteen">
+                <h1><img src="./join-Photoroom.png" alt="" class="inline-img1">Interest based communities</h1>
+                <p>Join group and discussion that match your passion</p>
+            </div>
+        </div>
+
+    </div>
+
+
+    <div class="seventeen">
+        <h1>How to install our App </h1>
+        <p>Getting started is quick and easy! Follow these simple steps to install and start using MyBindle today</p>
+    </div>
+
+    <div class="number-line">
+        <h1 class="zero">01</h1>
+        <div class="line"></div>
+        <h1>02</h1>
+        <div class="line"></div>
+        <h1>03</h1>
+    </div>
+
+
+    <div class="hir">
+        <div class="hello">
+            <h2>Download</h2>
+            <p>Open Play store or App store</p>
+        </div>
+
+        <div class="inst">
+            <h2>Install App</h2>
+            <p>Ready to Use</p>
+        </div>
+
+
+
+        <div class="ready">
+            <h2>Ready to Use</h2>
+            <p>Signup or Log in to start exploring</p>
+        </div>
+    </div>
+
+
+    <div class="bpp">
+
+
+        <div class="donatebtn">
+            <h1>Be the Reason</h1>
+            <h1>Someone Smiles Today!</h1>
+            <p>Your generosity can change lives every donation brings hope,support, and a brighter future. Give today
+                and make and difference!</p>
+
+            <button>Donate Now</button>
+
+        </div>
+
+        <div>
+            <div class="imgdiv">
+
+                <img class="src" src="./phone-Photoroom.png" alt="">
+                <img class="msrc" src="./phone2-Photoroom.png" alt="">
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <div class="users">
+        <h1>What our Users Say</h1>
+    </div>
+
+    <div class="sss">
+
+        <div class="stl">
+            <img src="./star1-Photoroom.png" alt="">
+            <p>This platform changed the way I stay in touch with my friends and family, The interface is smooth and i
+                love how easy it is to share my moments</p>
+            <img class="em" src="./emily-Photoroom.png" alt="">
+        </div>
+
+
+        <div class="sfa">
+            <img src="./star1-Photoroom.png" alt="">
+            <p>Finally a social network that understanda what I need. The privacy features are a game changer and I feel safer sharing my life online </p>
+                
+            <img class="em" src="./amit-Photoroom.png" alt="">
+
+        </div>
+
+
+        <div class="sis">
+            <img src="./star1-Photoroom.png" alt="">
+            <p>I joined us to explore but now I cannot imagine my day without it. The real time chat anf engaging
+                communities make every interaction special</p>
+            <img class="em" src="./sophie-Photoroom.png" alt="">
+
+        </div>
+    </div>
+
+    <div class="sse">
+
+        <div class="srp">
+            <img src="./star1-Photoroom.png" alt="">
+            <p>Running my small business has never been easier. This platform help me connect with customers promotte my product and grow my brand </p>
+                
+            <img class="em" src="./javier-Photoroom.png" alt="">
+
+        </div>
+
+
+        <div class="sto">
+            <img src="./star1-Photoroom.png" alt="">
+            <p>The perfect blend of fun and functionality Whether i want to go live discover trending content or just catchup with friends everything is right here</p>
+              
+            <img class="em" src="./lucas-Photoroom.png" alt="">
+
+        </div>
+
+        <div class="eip">
+            <img src="./star1-Photoroom.png" alt="">
+            <p>I have tried many social platforms but this one truly stands out. The experience feel personal the
+                connection feels real and every feature just make sense</p>
+            <img class="em" src="./Nora-Photoroom.png" alt="">
+
+
+        </div>
+
+    </div>
+
+    <div class="smb">
+        <button>See More</button>
+    </div>
+
+    </section>
+
+    <footer>
+
+
+        <div class="final">
+            <div>
+                <h1>Join the fun-Download</h1>
+                <h1>MyBindle Now</h1>
+            </div>
+
+            <div class="fimg">
+                <img src="./final-Photoroom.png" alt="">
+            </div>
+
+        </div>
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+    <script src="app.js"></script>
+
+
+</body>
+
+</html>
+
+
+Style.CSS
+
+header{
+    background-color: red;
+        border: 5px solid blue;
+        height: 450px;
+        
+
+}
+
+.first{
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-top: 20px;
+    gap :20px
+    
+}
+
+
+
+
+.second{
+    color: white;
+    margin-left: 30px;
+}
+
+.third{
+    display: flex;
+    
+    
+}
+
+button{
+    background-color: blue;
+    color: white;
+    width: 100px;
+    border: none;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+.fourth{
+    margin-right: 100px;
+}
+
+
+
+.five{
+    text-align: center;
+}
+
+
+.sixth{
+    background-color: silver;
+    width: 340px;
+    height: 130px;
+    padding-top: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.inline-img {
+
+
+  vertical-align: middle;
+  display: inline;
+  width: 30px;
+  
+
+}
+.inline-img1 {
+
+
+  vertical-align: middle;
+  display: inline;
+  width: 30px;
+  margin-bottom: 7px;
+  
+
+}
+
+
+.seven{
+    background-color: silver;
+    width: 340px;
+    height: 130px;
+    padding-top: 20px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+
+
+.eight{
+    background-color: silver;
+    width: 340px;
+    height: 130px;
+    padding-top: 20px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+
+.nine{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.ten{
+    background-color: silver;
+    width: 340px;
+    height: 130px;
+    padding-top: 20px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+
+.eleven{
+    background-color: silver;
+    width: 340px;
+    height: 130px;
+    padding-top: 20px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+
+
+.twelve{
+    background-color: silver;
+    width: 340px;
+    height: 130px;
+    padding-top: 20px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+
+.thirteen{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 40px;
+}
+
+
+.fourteen{
+    background-color: silver;
+    width: 640px;
+    height: 130px;
+    padding-top: 20px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+.fifteen{
+    background-color: silver;
+    width: 640px;
+    height: 130px;
+    padding-top: 20px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+
+.sixteen{
+    background-color: silver;
+    width: 640px;
+    height: 130px;
+    padding-top: 20px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+
+.twenty{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+
+}
+
+
+.seventeen{
+    text-align: center;
+    
+}
+
+
+.hello{
+    background-color: silver;
+    width: 200px;
+    height: 130px;
+    padding-top: 20px;
+    border-radius: 10px;
+    padding-left: 10px;
+    text-align: center;
+}
+
+
+.inst{
+    background-color: silver;
+    width: 200px;
+    height: 130px;
+    padding-top: 20px;
+    border-radius: 10px;
+    padding-left: 10px;
+    text-align: center;
+}
+
+
+.ready{
+    background-color: silver;
+    width: 200px;
+    height: 130px;
+    padding-top: 20px;
+    border-radius: 10px;
+    padding-left: 10px;
+    text-align: center;
+}
+
+
+.hir{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+
+
+ .number-line {
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+  }
+
+  .zero{
+    color: red;
+  }
+
+  
+
+  .number-line h1 {
+    font-size: 24px;
+
+  }
+
+  .line {
+    width: 250px; 
+    height: 2px;
+    background-color: black;
+  }
+
+
+.bpp {
+  display: flex;
+  justify-content: space-around;
+  background-color: red;
+  margin-top: 40px;
+  color: white;
+  height: 300px;
+
+}
+
+.bpp > div:last-child > div {
+  display: flex;
+  gap: 20px; 
+  align-items: center;
+}
+
+.bpp img {
+  width: 150px;
+  height: auto;
+  margin-top: 90px;
+  position: relative;
+  right: 50px;
+  
+}
+
+.src{
+    position: relative;
+    top: 38px;
+}
+
+
+
+.users{
+    text-align: center;
+}
+
+
+.stl{
+     background-color: silver;
+    width: 240px;
+    height: 230px;
+    padding-top: 20px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+
+.sfa{
+     background-color: silver;
+    width: 240px;
+    height: 230px;
+    padding-top: 20px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+
+.sis{
+    background-color: silver;
+    width: 240px;
+    height: 230px;
+    padding-top: 20px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+
+
+.sss{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+
+
+.em{
+    width: 130px;
+}
+
+.srp{
+    background-color: silver;
+    width: 240px;
+    height: 230px;
+    padding-top: 20px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+
+.sto{
+    background-color: silver;
+    width: 240px;
+    height: 230px;
+    padding-top: 20px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+
+.eip{
+    background-color: silver;
+    width: 240px;
+    height: 230px;
+    padding-top: 20px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+
+.sse{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+
+.smb{
+    text-align: center;
+    margin-top: 40px;
+}
+
+
+
+.final{
+    display: flex;
+    justify-content: space-around;
+    background-color: red;
+    margin-top: 40px;
+    height: 137px;
+    color: white;
+}
+
+.fimg{
+    margin-top: 35px;
+}
+
+Media Queries
+
+@media only screen and (max-width: 600px) {
+  header {
+    height: auto;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .first, .third, .nine, .thirteen, .twenty, .hir, .bpp, .sss, .sse, .final {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .sixth, .seven, .eight, .ten, .eleven, .twelve, 
+  .fourteen, .fifteen, .sixteen,
+  .hello, .inst, .ready,
+  .stl, .sfa, .sis, .srp, .sto, .eip {
+    width: 90%;
+    height: auto;
+    padding: 15px;
+    text-align: center;
+  }
+
+  button {
+    width: 100%;
+    max-width: 200px;
+  }
+
+  .inline-img, .inline-img1 {
+    width: 40px;
+  }
+
+  .bpp img {
+    width: 100px;
+    margin: 20px auto 0 auto;
+    display: block;
+    position: static;
+  }
+
+  .number-line {
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .line {
+    width: 100px;
+  }
+
+  .fimg {
+    margin-top: 10px;
+  }
+
+  .em {
+    width: 100px;
+  }
+
+  .imgdiv {
+    position: static;
+    text-align: center;
+    margin-top: -40px; 
+   
+  }
+
+  .donatebtn {
+    text-align: center;
+    margin-top: -30px;
+  }
+
+  .donatebtn button {
+    width: 120px;
+    height: 40px;
+    font-size: 14px;
+  }
+
+  .donatebtn p {
+    padding-bottom: 30px;
+    font-size: 14px;
+  }
+
+
+  .users {
+    margin-top: 60px;
+    padding: 0 10px;
+    text-align: center;
+  }
+
+  .bpp {
+    height: auto;
+    padding: 20px 0;
+    text-align: center;
+  }
+
+  .src {
+    margin-bottom: 30px;
+    width: 80%;
+    max-width: 250px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .msrc {
+    width: 80%;
+    max-width: 250px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+  }
+
+  .final {
+    height: auto;
+    padding: 20px 0;
+    text-align: center;
+  }
+
+.donatebtn button{
+    position: relative;
+    bottom: 30px;
+}
+
+
+.first {
+   
+   flex-direction: row;
+  }
+
+  .bindimg img {
+    width: 100%;
+    max-width: 200px; /* Adjust as needed */
+    height: auto;
+  }
+
+  .bindle h1 {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+}
+ @media only screen and (min-width: 601px) and (max-width: 2200px) {
+  *, *::before, *::after {
+    box-sizing: border-box;
+  }
+
+  header {
+    height: auto;
+    padding: 40px;
+    text-align: center;
+  }
+
+  .first, .third, .nine, .thirteen, .twenty, .hir, .bpp, .sss, .sse, .final {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 30px;
+  }
+
+  .sixth, .seven, .eight, .ten, .eleven, .twelve,
+  .fourteen, .fifteen, .sixteen,
+  .hello, .inst, .ready,
+  .stl, .sfa, .sis, .srp, .sto, .eip {
+    width: 44%;
+    height: auto;
+    padding: 20px;
+    text-align: center;
+  }
+
+  button {
+    width: 150px;
+    height: 45px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  .inline-img, .inline-img1 {
+    width: 40px;
+    height: auto;
+  }
+
+  .bpp img {
+    width: 130px;
+    margin: 30px auto;
+    display: block;
+    position: static;
+  }
+
+  .number-line {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .line {
+    width: 200px;
+    height: auto;
+  }
+
+  .fimg {
+    margin-top: 20px;
+  }
+
+  .em {
+    width: 120px;
+    height: auto;
+  }
+
+  .imgdiv {
+    position: static;
+    text-align: center;
+    margin-top: 0;
+  }
+
+  .donatebtn {
+    text-align: center;
+    margin-top: 0;
+  }
+
+  .donatebtn button {
+    width: 140px;
+    height: 45px;
+    font-size: 15px;
+    position: relative;
+    bottom: 20px;
+  }
+
+  .donatebtn p {
+    padding-bottom: 20px;
+    font-size: 15px;
+  }
+
+  .users {
+    margin-top: 50px;
+    padding: 0 20px;
+    text-align: center;
+  }
+
+  .bpp {
+    height: auto;
+    padding: 30px 0;
+    text-align: center;
+  }
+
+  .src, .msrc {
+    width: 60%;
+    max-width: 300px;
+    margin: 20px auto;
+    display: block;
+  }
+
+  .final {
+    height: auto;
+    padding: 30px 0;
+    text-align: center;
+  }
+
+  .twentyone {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;  
+    padding: 40px 20px;
+    text-align: center;
+  }
+
+  .seventeen {
+    margin-top: 40px; 
+    padding: 0 20px;
+    text-align: center;
+  }
+
+  .number-line {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.number-line h1 {
+  font-size: 24px;
+  margin: 0;
+}
+
+.line {
+  width: 60px;        
+  height: 2px;        
+  background-color: #000;
+}
+}
+GSAP Animations
+
+gsap.from("header", {
+    opacity: 0,
+    y: -50,
+    duration: 1,
+    ease: "power2.out"
+  });
+
+  gsap.utils.toArray('.sixth, .seven, .eight, .ten, .eleven, .twelve, .fourteen, .fifteen, .sixteen, .hello, .inst, .ready, .stl, .sfa, .sis, .srp, .sto, .eip').forEach((card, i) => {
+    gsap.from(card, {
+      scrollTrigger: {
+        trigger: card,
+        start: "top 80%",
+        toggleActions: "play none none none"
+      },
+      opacity: 0,
+      y: 30,
+      duration: 0.8,
+      delay: i * 0.05,
+      ease: "power2.out"
+    });
+  });
+
+  gsap.utils.toArray('button').forEach(btn => {
+    btn.addEventListener('mouseenter', () => {
+      gsap.to(btn, { scale: 1.2, duration: 0.2 });
+    });
+    btn.addEventListener('mouseleave', () => {
+      gsap.to(btn, { scale: 1, duration: 0.2 });
+    });
+  });
+
+  gsap.from(".twentyone", {
+    scrollTrigger: {
+      trigger: ".twentyone",
+      start: "top 80%",
+      toggleActions: "play none none none"
+    },
+    x: -100,
+    opacity: 0,
+    duration: 1,
+    ease: "power2.out"
+  });
+
+  gsap.from("footer", {
+    scrollTrigger: {
+      trigger: "footer",
+      start: "top 90%",
+    },
+    opacity: 0,
+    y: 50,
+    duration: 1,
+    ease: "power2.out"
+  });
+
+
+  
+ const card = document.querySelector(".sixth");
+
+  card.addEventListener("mouseenter", () => {
+    gsap.to(card, {
+      scale: 1.2,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+   card.addEventListener("mouseleave", () => {
+    gsap.to(card, {
+      scale: 1,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+
+  const card1 = document.querySelector(".seven");
+
+  card1.addEventListener("mouseenter", () => {
+    gsap.to(card1, {
+      scale: 1.2,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+   card1.addEventListener("mouseleave", () => {
+    gsap.to(card1, {
+      scale: 1,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+
+  const card2 = document.querySelector(".eight");
+
+  card2.addEventListener("mouseenter", () => {
+    gsap.to(card2, {
+      scale: 1.2,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+   card2.addEventListener("mouseleave", () => {
+    gsap.to(card2, {
+      scale: 1,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+
+const card3 = document.querySelector(".ten");
+
+  card3.addEventListener("mouseenter", () => {
+    gsap.to(card3, {
+      scale: 1.2,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+   card3.addEventListener("mouseleave", () => {
+    gsap.to(card3, {
+      scale: 1,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+
+
+
+const card4 = document.querySelector(".eleven");
+
+  card4.addEventListener("mouseenter", () => {
+    gsap.to(card4, {
+      scale: 1.2,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+   card4.addEventListener("mouseleave", () => {
+    gsap.to(card4, {
+      scale: 1,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+
+  const card5 = document.querySelector(".twelve");
+
+  card5.addEventListener("mouseenter", () => {
+    gsap.to(card5, {
+      scale: 1.2,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+   card5.addEventListener("mouseleave", () => {
+    gsap.to(card5, {
+      scale: 1,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+
+
+
+const card6 = document.querySelector(".fourteen");
+
+  card6.addEventListener("mouseenter", () => {
+    gsap.to(card6, {
+      scale: 1.2,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+   card6.addEventListener("mouseleave", () => {
+    gsap.to(card6, {
+      scale: 1,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+
+
+const card7 = document.querySelector(".fifteen");
+
+  card7.addEventListener("mouseenter", () => {
+    gsap.to(card7, {
+      scale: 1.2,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+   card7.addEventListener("mouseleave", () => {
+    gsap.to(card7, {
+      scale: 1,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+
+
+  
+
+const card8 = document.querySelector(".sixteen");
+
+  card8.addEventListener("mouseenter", () => {
+    gsap.to(card8, {
+      scale: 1.2,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+   card8.addEventListener("mouseleave", () => {
+    gsap.to(card8, {
+      scale: 1,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+
+
+const card9 = document.querySelector(".hello");
+
+  card9.addEventListener("mouseenter", () => {
+    gsap.to(card9, {
+      scale: 1.2,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+   card9.addEventListener("mouseleave", () => {
+    gsap.to(card9, {
+      scale: 1,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+
+
+
+  const card10 = document.querySelector(".inst");
+
+  card10.addEventListener("mouseenter", () => {
+    gsap.to(card10, {
+      scale: 1.2,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+   card10.addEventListener("mouseleave", () => {
+    gsap.to(card10, {
+      scale: 1,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+
+
+  const card11 = document.querySelector(".ready");
+
+  card11.addEventListener("mouseenter", () => {
+    gsap.to(card11, {
+      scale: 1.2,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+   card11.addEventListener("mouseleave", () => {
+    gsap.to(card11, {
+      scale: 1,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+
+
+
+   const card12 = document.querySelector(".stl");
+
+  card12.addEventListener("mouseenter", () => {
+    gsap.to(card12, {
+      scale: 1.2,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+   card12.addEventListener("mouseleave", () => {
+    gsap.to(card12, {
+      scale: 1,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+
+
+  const card13 = document.querySelector(".sfa");
+
+  card13.addEventListener("mouseenter", () => {
+    gsap.to(card13, {
+      scale: 1.2,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+   card13.addEventListener("mouseleave", () => {
+    gsap.to(card13, {
+      scale: 1,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+
+
+
+   const card14 = document.querySelector(".sis");
+
+  card14.addEventListener("mouseenter", () => {
+    gsap.to(card14, {
+      scale: 1.2,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+   card14.addEventListener("mouseleave", () => {
+    gsap.to(card14, {
+      scale: 1,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+
+
+
+   const card15 = document.querySelector(".srp");
+
+  card15.addEventListener("mouseenter", () => {
+    gsap.to(card15, {
+      scale: 1.2,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+   card15.addEventListener("mouseleave", () => {
+    gsap.to(card15, {
+      scale: 1,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+
+
+
+
+
+   const card16 = document.querySelector(".sto");
+
+  card16.addEventListener("mouseenter", () => {
+    gsap.to(card16, {
+      scale: 1.2,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+   card16.addEventListener("mouseleave", () => {
+    gsap.to(card16, {
+      scale: 1,
+      duration: 0.3,
+      ease: "power2.out"
+    });
+  });
+
+
+
+
+   const card17 = document.querySelector(".eip");
+
+  card17.addEventListener("mouseenter", () => {
+    gsap.to(card17, {
+      scale: 1.2,
+      duration: 0.3,
+      ease: "power2.out",
+    });
+  });
+
+   card17.addEventListener("mouseleave", () => {
+    gsap.to(card17, {
+      scale: 1,
+      duration: 0.3,
+      ease: "power2.out",
+    });
+  });
+
+
+
+
+
