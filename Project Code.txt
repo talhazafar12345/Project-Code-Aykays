@@ -295,14 +295,16 @@ header{
         border: 5px solid blue;
         height: 450px;
         
+        
 
 }
 
 .qqq{
-    display: flex;
-    justify-content: center;
+   display: flex;
+   justify-content: center;
     color: white;
     margin-top: 20px;
+ 
     
 }
 
@@ -316,6 +318,7 @@ header{
 
 .third{
     display: flex;
+    justify-content: center;
     
     
 }
@@ -468,9 +471,13 @@ button{
 
 .twenty{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     margin-top: 40px;
 
+}
+
+.earth{
+  margin-right: 40px;
 }
 
 
@@ -515,7 +522,8 @@ button{
 
 .hir{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 30px;
     margin-top: 40px;
 }
 
@@ -548,7 +556,7 @@ button{
 
 .bpp {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   background-color: red;
   margin-top: 40px;
   color: white;
@@ -616,7 +624,8 @@ button{
 
 .sss{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 30px;
     margin-top: 40px;
 }
 
@@ -657,7 +666,8 @@ button{
 
 .sse{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 30px;
     margin-top: 40px;
 }
 
@@ -693,7 +703,6 @@ footer {
     max-width: 100%;
     height: auto;
 }
-
 
 
 
