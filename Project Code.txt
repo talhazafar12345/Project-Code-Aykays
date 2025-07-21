@@ -870,8 +870,7 @@ Media Queries
 
   .sixth, .seven, .eight, .ten, .eleven, .twelve,
   .fourteen, .fifteen, .sixteen,
-  .hello, .inst, .ready,
-  .stl, .sfa, .sis, .srp, .sto, .eip {
+  .hello, .inst, .ready{
     width: 44%;
     height: auto;
     padding: 20px;
@@ -1002,7 +1001,17 @@ Media Queries
   height: 2px;        
   background-color: #000;
 }
+
+  .stl, .sfa, .sis, .srp, .sto, .eip {
+
+width: 44%;
+    padding: 20px;
+    text-align: center;
+
+  }
 }
+
+
 GSAP Animations
 
 gsap.from("header", {
